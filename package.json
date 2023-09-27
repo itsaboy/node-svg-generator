@@ -1,0 +1,19 @@
+{
+    "name": "node-svg-generator",
+    "version": "1.0.0",
+    "description": "Node program that generates an SVG file based on user input.",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js",
+        "test": "node lib/shapes.test.js"
+    },
+    "author": "itsaboy3366@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "8.2.4",
+        "inquirer-maxlength-input-prompt": "^1.0.2"
+    },
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
