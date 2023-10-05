@@ -1,0 +1,4 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="width:300px;height:300px;">
+    <rect x="0" y="0" width="300" height="300" fill="green"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" style="text-align:center;">SVG</text>
+</svg>
