@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "build": "node index.js",
-        "test": "node lib/shapes.test.js"
+        "test": "jest"
     },
     "author": "itsaboy3366@gmail.com",
     "license": "MIT",
